@@ -11,6 +11,9 @@
 .blogh3{
     cursor: pointer;
   }
+.blogp{
+    max-width: 43vw;
+  }
 
 .container {
   padding: 0 2rem;
